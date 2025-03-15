@@ -314,4 +314,7 @@ span {
     .statistic-content{
         transform: translateX(-200px);
     }
+    .statistic-item{
+        transform: translateX(-56px);
+    }
 }
